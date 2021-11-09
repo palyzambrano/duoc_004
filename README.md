@@ -1,5 +1,5 @@
-# coderhouse-sass
-Compilador de SASS a CSS descrito en el curso de Desarrollo Web dictado por Coderhouse
+# duoc_004
+Compilador de SASS a CSS descrito en el curso de Desarrollo Web dictado por DuocUC
 
 ## Requisitos
 
@@ -9,10 +9,10 @@ Compilador de SASS a CSS descrito en el curso de Desarrollo Web dictado por Code
 
 ```shell
 # clonar el repositorio
-git clone https://github.com/palyzambrano/coderhouse-sass.git
+git clone https://github.com/palyzambrano/duoc_004.git
 
 # cambiar directorio al del repositorio
-cd ./coderhouse-sass
+cd ./duoc_004
 
 # instalar dependencias con npm
 npm install
