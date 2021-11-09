@@ -1,0 +1,25 @@
+{
+  "name": "coderhouse-sass",
+  "version": "1.0.0",
+  "description": "Coderhouse SASS Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass scss -o css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palyzambrano/coderhouse-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palyzambrano/coderhouse-sass/issues"
+  },
+  "homepage": "https://github.com/palyzambrano/coderhouse-sass#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "nodemon": "^2.0.6"
+  }
+}
